@@ -111,7 +111,7 @@ paginate = 6
   name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi}"
   message = "{Saya {sangat puas|senang} dengan genteng oven dari genteng.bangunan.co. Kualitasnya {sangat baik|hebat} dan {tahan lama|kuat} untuk proyek saya.|Genteng oven dari genteng.bangunan.co {berkualitas|bagus}, dan hasilnya {tahan lama|kokoh} serta cocok untuk proyek rumah saya.}"
   response = "{Senang mendengar Anda puas dengan produk genteng kami. Terima kasih atas kepercayaannya!|Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih genteng kami!}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
