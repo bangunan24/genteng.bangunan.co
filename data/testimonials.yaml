@@ -1,55 +1,56 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rudi
+    name: Fajar
     message: >-
-      Saya membeli genteng beton dari genteng.bangunan.co untuk proyek rumah
-      saya, dan hasilnya sangat memuaskan. Kualitas produk terbaik dan kokoh.
+      Produk genteng beton yang saya beli dari genteng.bangunan.co hebat.
+      Kualitasnya tahan lama dan berkualitas untuk proyek rumah saya.
     response: >-
-      Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan genteng
-      berkualitas untuk proyek rumah Anda.
+      Kami sangat menghargai kepercayaan Anda. Senang mendengar Anda puas dengan
+      produk genteng kami!
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Nur
+    name: Maya
     message: >-
-      genteng.bangunan.co sangat membantu dalam memilih genteng untuk rumah
-      saya. Produk yang saya beli berkualitas dan tepat dengan kebutuhan saya.
+      genteng.bangunan.co memudahkan dalam memilih genteng untuk rumah saya.
+      Produk yang saya beli berkualitas dan sesuai dengan kebutuhan saya.
     response: >-
       Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
       dengan produk genteng dari kami.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Faisal
+    name: Rizal
     message: >-
-      Produk genteng keramik dari genteng.bangunan.co indah dan cocok untuk
-      proyek perumahan saya. Proses pembelian dan pengirimannya juga cepat.
+      Produk genteng keramik dari genteng.bangunan.co sangat estetis dan cocok
+      untuk proyek perumahan saya. Proses pembelian dan pengirimannya juga
+      cepat.
     response: >-
       Kami senang bisa bekerja sama dengan Anda. Terima kasih atas
       kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Benny
+    name: Hendra
     message: >-
-      Saya senang dengan genteng oven dari genteng.bangunan.co. Kualitasnya
-      sangat baik dan tahan lama untuk proyek saya.
+      Genteng oven dari genteng.bangunan.co berkualitas, dan hasilnya kokoh
+      serta cocok untuk proyek rumah saya.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
       genteng kami!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Ayu
+    name: Siti
     message: >-
-      Saya puas dengan layanan dari genteng.bangunan.co. Produk genteng yang
-      saya pasang berkualitas tinggi dan hasilnya luar biasa.
+      Saya senang dengan layanan dari genteng.bangunan.co. Produk genteng yang
+      saya pasang hebat dan hasilnya memuaskan.
     response: >-
-      Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
-      proyek genteng Anda kepada kami!
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      genteng berkualitas.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Rizal
+    name: Faisal
     message: >-
-      Genteng dari genteng.bangunan.co tepat dengan kebutuhan proyek renovasi
-      rumah saya. Proses pengirimannya cepat dan produknya berkualitas tinggi.
+      Saya terkesan dengan layanan dari genteng.bangunan.co. Genteng yang saya
+      beli kokoh dan proses pengirimannya aman.
     response: >-
-      Terima kasih telah mempercayakan proyek genteng Anda kepada kami. Kami
-      senang hasilnya sesuai dengan harapan Anda.
+      Kami senang mendengar bahwa Anda puas dengan produk dan layanan kami.
+      Terima kasih atas kepercayaannya!
     rating: 4
