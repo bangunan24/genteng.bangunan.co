@@ -1,9 +1,12 @@
 ---
-title: "Jual Genteng Kermaik & Beton di Kramat Jakarta"
-date: "2024-05-03"
-categories: 
-  - "harga"
-description: "Jual Genteng Kermaik & Beton di Kramat Jakarta. Anda dapat membeli variasi Genteng Kermaik & Beton di Kramat Jakarta yang pantas dg dengan yg diinginkan, ten..."
+title: Jual Genteng Kermaik & Beton di Kramat Jakarta
+date: '2025-05-01'
+categories:
+  - harga
+description: >-
+  Jual Genteng Kermaik & Beton di Kramat Jakarta. Anda dapat membeli variasi
+  Genteng Kermaik & Beton di Kramat Jakarta yang pantas dg dengan yg diinginkan,
+  ten...
 ---
 
 **Jual Genteng Kermaik & Beton di Kramat Jakarta** – Genteng adalah salah satu material tempat tinggal yg sangat patut harus dimiliki Tiap pengguna tempat tinggal. Genteng akan menjaga rumah anda dari bermacam-macam jenis kondisi seperti hujan, panas terik sang surya, dan masih banyak yg yang lain. Genteng akan menjadikan keadaan hunian menjadi paling aman pastinya. hunian yang tdk memiliki genteng tentunya akan tidak enak.
