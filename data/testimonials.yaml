@@ -1,10 +1,9 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rio
+    name: Hendra
     message: >-
       Saya membeli genteng beton dari genteng.bangunan.co untuk proyek rumah
-      saya, dan hasilnya sangat memuaskan. Kualitas produk sangat baik dan tahan
-      lama.
+      saya, dan hasilnya luar biasa. Kualitas produk terbaik dan tahan lama.
     response: >-
       Kami sangat menghargai kepercayaan Anda. Senang mendengar Anda puas dengan
       produk genteng kami!
@@ -22,13 +21,13 @@ testimonials:
     name: Bambang
     message: >-
       Genteng keramik dari genteng.bangunan.co elegan dan sesuai untuk proyek
-      perumahan saya. Pengirimannya aman dan tanpa kendala.
+      perumahan saya. Pengirimannya cepat dan tanpa kendala.
     response: >-
       Terima kasih! Kami berkomitmen untuk menyediakan genteng yang kokoh dengan
       layanan terbaik.
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Deni
+    name: Gilang
     message: >-
       Genteng oven dari genteng.bangunan.co berkualitas, dan hasilnya tahan lama
       serta cocok untuk proyek rumah saya.
@@ -37,19 +36,19 @@ testimonials:
       kepercayaannya!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Rina
+    name: Fitri
     message: >-
-      Pelayanan genteng.bangunan.co sangat memuaskan. Produk genteng beton yang
-      saya beli kokoh dan sesuai dengan harapan saya.
+      Saya puas dengan layanan dari genteng.bangunan.co. Produk genteng yang
+      saya pasang berkualitas tinggi dan hasilnya memuaskan.
     response: >-
-      Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan
-      proyek genteng Anda kepada kami!
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan
+      genteng terbaik.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Rio
+    name: Wawan
     message: >-
       Saya puas dengan layanan dari genteng.bangunan.co. Genteng yang saya beli
-      berkualitas dan proses pengirimannya cepat.
+      berkualitas dan proses pengirimannya aman.
     response: >-
       Terima kasih telah mempercayakan proyek genteng Anda kepada kami. Kami
       senang hasilnya sesuai dengan harapan Anda.
