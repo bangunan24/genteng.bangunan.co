@@ -1,0 +1,7 @@
+SUCCESS,/jual-genteng-kermaik-beton-di-adiwerna/,"revised"
+SUCCESS,/jual-genteng-kermaik-beton-di-ancol-jakarta/,"revised"
+SUCCESS,/jual-genteng-kermaik-beton-di-angke-jakarta/,"revised"
+SUCCESS,/jual-genteng-kermaik-beton-di-babakan-bogor/,"revised"
+FAILED,/jual-genteng-kermaik-beton-di-baktijaya-depok/,"broken placeholders: Placeholder 2 appears 2x in AI output (should appear exactly 1x)"
+FAILED,/jual-genteng-kermaik-beton-di-balaraja-tangerang/,"broken placeholders: Placeholder 2 appears 2x in AI output (should appear exactly 1x)"
+FAILED,/jual-genteng-kermaik-beton-di-balumbang-jaya-bogor/,"broken placeholders: Placeholder 2 appears 6x in AI output (should appear exactly 1x)"
