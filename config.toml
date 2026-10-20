@@ -1,4 +1,6 @@
-baseURL = "https://genteng.bangunan.co/"
+# SINGLE place the domain is defined: baseURL below + [params] brand. Tools and theme read these.
+# Use __DOMAIN__ (host of baseURL) and __BRAND__ (params.brand) inside text values instead of typing the domain.
+baseURL = "https://genteng-bangunan-co.pages.dev/"
 languageCode = "id"
 title = "Agen Genteng | Jual Genteng Beton, Genteng Keramik, Genteng Oven"
 theme = "saeseen-hugo"
@@ -11,6 +13,9 @@ paginate = 6
   category = "/:slug/"
 
 [params]
+  brand = "bangunan.co"
+  # Parent-site price list page (used by the homepage button); change here if the parent domain changes.
+  price_list_url = "https://bangunan-co.pages.dev/daftar-harga/"
   # Site-wide settings
   meta_description = "Agen Genteng berkualitas - Jual Genteng Beton, Genteng Keramik, dan Genteng Oven dengan harga bersaing dan pengiriman free ongkir."
   viewport = "width=device-width, initial-scale=1.0"
@@ -22,7 +27,7 @@ paginate = 6
   featured_image = "/images/admin/featured-image.png"
   author = "K. Yaman"
   telepon = "//+6285776786091"
-  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo bangunan.co*%20%3A"
+  whatsapp = "//api.whatsapp.com/send?phone=6285776786091&text=*Halo __BRAND__*%20%3A"
   enableWhatApps = true
   enableTelepon = true
   tocMinWordCount = 300
@@ -73,7 +78,7 @@ paginate = 6
   testimonials_title = "Apa Kata Klien Kami"
 
   [[params.footer_services]]
-  text = "genteng.bangunan.co menawarkan berbagai jenis genteng berkualitas seperti genteng beton, genteng keramik, dan genteng oven. Kami mengutamakan kepuasan pelanggan dengan produk yang tahan lama, estetis, dan harga yang bersaing. Pilih kami untuk melindungi dan memperindah rumah atau bangunan Anda dengan genteng terbaik."
+  text = "__DOMAIN__ menawarkan berbagai jenis genteng berkualitas seperti genteng beton, genteng keramik, dan genteng oven. Kami mengutamakan kepuasan pelanggan dengan produk yang tahan lama, estetis, dan harga yang bersaing. Pilih kami untuk melindungi dan memperindah rumah atau bangunan Anda dengan genteng terbaik."
 
   [[params.footer_contact]]
     icon = "fas fa-map-marker-alt"
@@ -88,42 +93,42 @@ paginate = 6
 [[params.testimonials]]
   avatar = "/images/admin/avatar1.png"
   name = "{Budi|Andi|Joko|Eko|Rudi|Hendra|Agus|Wawan|Fajar|Rio}"
-  message = "{Saya membeli genteng beton dari genteng.bangunan.co untuk proyek rumah saya, dan hasilnya {sangat memuaskan|luar biasa}. Kualitas produk {sangat baik|terbaik} dan {tahan lama|kokoh}.|Produk genteng beton yang saya beli dari genteng.bangunan.co {sangat memuaskan|hebat}. Kualitasnya {tahan lama|kokoh} dan {berkualitas|mantap} untuk proyek rumah saya.}"
+  message = "{Saya membeli genteng beton dari __DOMAIN__ untuk proyek rumah saya, dan hasilnya {sangat memuaskan|luar biasa}. Kualitas produk {sangat baik|terbaik} dan {tahan lama|kokoh}.|Produk genteng beton yang saya beli dari __DOMAIN__ {sangat memuaskan|hebat}. Kualitasnya {tahan lama|kokoh} dan {berkualitas|mantap} untuk proyek rumah saya.}"
   response = "{Terima kasih atas kepercayaan Anda! Kami senang dapat menyediakan genteng {berkualitas|terbaik} untuk proyek rumah Anda.|Kami sangat menghargai kepercayaan Anda. Senang mendengar Anda puas dengan produk genteng kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar2.png"
   name = "{Siti|Rina|Dewi|Ayu|Sari|Fitri|Lina|Diah|Maya|Nur}"
-  message = "{genteng.bangunan.co {sangat membantu|memudahkan} dalam memilih genteng untuk rumah saya. Produk yang saya beli {berkualitas|terbaik} dan {sesuai|tepat} dengan kebutuhan saya.|Layanan dari genteng.bangunan.co sangat {membantu|baik}, produk genteng yang saya beli {berkualitas tinggi|hebat} dan sesuai dengan kebutuhan saya.}"
+  message = "{__DOMAIN__ {sangat membantu|memudahkan} dalam memilih genteng untuk rumah saya. Produk yang saya beli {berkualitas|terbaik} dan {sesuai|tepat} dengan kebutuhan saya.|Layanan dari __DOMAIN__ sangat {membantu|baik}, produk genteng yang saya beli {berkualitas tinggi|hebat} dan sesuai dengan kebutuhan saya.}"
   response = "{Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas dengan produk genteng dari kami.|Terima kasih atas ulasan positifnya. Kami senang dapat memenuhi kebutuhan genteng rumah Anda!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar3.png"
   name = "{Joko|Agus|Bayu|Galih|Rizal|Bambang|Faisal|Ali|Toni|Deni}"
-  message = "{Produk genteng keramik dari genteng.bangunan.co {sangat estetis|indah} dan cocok untuk proyek perumahan saya. Proses pembelian dan pengirimannya juga {cepat|efisien}.|Genteng keramik dari genteng.bangunan.co {sangat cantik|elegan} dan sesuai untuk proyek perumahan saya. Pengirimannya {cepat|aman} dan tanpa kendala.}"
+  message = "{Produk genteng keramik dari __DOMAIN__ {sangat estetis|indah} dan cocok untuk proyek perumahan saya. Proses pembelian dan pengirimannya juga {cepat|efisien}.|Genteng keramik dari __DOMAIN__ {sangat cantik|elegan} dan sesuai untuk proyek perumahan saya. Pengirimannya {cepat|aman} dan tanpa kendala.}"
   response = "{Terima kasih! Kami berkomitmen untuk menyediakan genteng yang {berkualitas|kokoh} dengan layanan terbaik.|Kami senang bisa bekerja sama dengan Anda. Terima kasih atas kepercayaannya!}"
   rating = 5
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
   name = "{Andi|Eko|Deni|Hendra|Toni|Wawan|Gilang|Ari|Benny|Yudi}"
-  message = "{Saya {sangat puas|senang} dengan genteng oven dari genteng.bangunan.co. Kualitasnya {sangat baik|hebat} dan {tahan lama|kuat} untuk proyek saya.|Genteng oven dari genteng.bangunan.co {berkualitas|bagus}, dan hasilnya {tahan lama|kokoh} serta cocok untuk proyek rumah saya.}"
+  message = "{Saya {sangat puas|senang} dengan genteng oven dari __DOMAIN__. Kualitasnya {sangat baik|hebat} dan {tahan lama|kuat} untuk proyek saya.|Genteng oven dari __DOMAIN__ {berkualitas|bagus}, dan hasilnya {tahan lama|kokoh} serta cocok untuk proyek rumah saya.}"
   response = "{Senang mendengar Anda puas dengan produk genteng kami. Terima kasih atas kepercayaannya!|Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih genteng kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar5.png"
   name = "{Rina|Siti|Lina|Dewi|Ayu|Sari|Fitri|Maya|Nur|Diah}"
-  message = "{Pelayanan genteng.bangunan.co {sangat memuaskan|luar biasa}. Produk genteng beton yang saya beli {berkualitas tinggi|kokoh} dan sesuai dengan {harapan|ekspektasi} saya.|Saya {senang|puas} dengan layanan dari genteng.bangunan.co. Produk genteng yang saya pasang {berkualitas tinggi|hebat} dan hasilnya {memuaskan|luar biasa}.}"
+  message = "{Pelayanan __DOMAIN__ {sangat memuaskan|luar biasa}. Produk genteng beton yang saya beli {berkualitas tinggi|kokoh} dan sesuai dengan {harapan|ekspektasi} saya.|Saya {senang|puas} dengan layanan dari __DOMAIN__. Produk genteng yang saya pasang {berkualitas tinggi|hebat} dan hasilnya {memuaskan|luar biasa}.}"
   response = "{Terima kasih! Kami senang dapat membantu mewujudkan proyek Anda dengan genteng {terbaik|berkualitas}.|Kami sangat menghargai ulasan Anda. Terima kasih telah mempercayakan proyek genteng Anda kepada kami!}"
   rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar6.png"
   name = "{Eko|Rio|Galih|Faisal|Yanto|Benny|Toni|Deni|Rizal|Wawan}"
-  message = "{Genteng dari genteng.bangunan.co {sangat sesuai|tepat} dengan kebutuhan proyek renovasi rumah saya. Proses pengirimannya {cepat|aman|efisien} dan produknya {berkualitas tinggi|kokoh}.|Saya {terkesan|puas} dengan layanan dari genteng.bangunan.co. Genteng yang saya beli {berkualitas|kokoh} dan proses pengirimannya {cepat|aman}.}"
+  message = "{Genteng dari __DOMAIN__ {sangat sesuai|tepat} dengan kebutuhan proyek renovasi rumah saya. Proses pengirimannya {cepat|aman|efisien} dan produknya {berkualitas tinggi|kokoh}.|Saya {terkesan|puas} dengan layanan dari __DOMAIN__. Genteng yang saya beli {berkualitas|kokoh} dan proses pengirimannya {cepat|aman}.}"
   response = "{Kami senang mendengar bahwa Anda puas dengan produk dan layanan kami. Terima kasih atas {ulasannya|kepercayaannya}!|Terima kasih telah mempercayakan proyek genteng Anda kepada kami. Kami senang hasilnya sesuai dengan harapan Anda.}"
   rating = 4
 
@@ -168,19 +173,29 @@ paginate = 6
     url = "/"
   [[params.menu_items]]
     title = "Profile"
-    url = "https://bangunan.co/profile/"
+    url = "https://bangunan-co.pages.dev/profile/"
   [[params.menu_items]]
     title = "Daftar Harga"
-    url = "https://bangunan.co/daftar-harga/"
+    url = "https://bangunan-co.pages.dev/daftar-harga/"
 
 [params.header]
    title = "Agen Genteng Beton, Keramik & Oven | "
    highlight = "Bangunan.co"
 
+# Sitemap <lastmod> and the "Diperbarui" label come from the `lastmod:` front-matter field that
+# tools/recycle-posts.js, revise-articles.js and fix-orphans.js bump (the real publish `date:`
+# stays untouched).
+[frontmatter]
+  lastmod = ["lastmod", "date", "publishDate"]
+
 [markup]
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 3
+  # Required by tools/lib/safe-table.js: AI-generated tables are rendered as raw HTML
+  # (<table class="table">). Without this Hugo replaces raw HTML with "<!-- raw HTML omitted -->".
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [related]
   threshold = 80
