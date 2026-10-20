@@ -8,5 +8,5 @@ Noindex: /tags/*/page/
 Disallow: /page/
 Noindex: /page/
 
-Sitemap: https://genteng.bangunan.co/sitemap.xml
-Sitemap: https://genteng.bangunan.co/sitemap.xml.gz
+Sitemap: https://genteng-bangunan-co.pages.dev/sitemap.xml
+Sitemap: https://genteng-bangunan-co.pages.dev/sitemap.xml.gz
