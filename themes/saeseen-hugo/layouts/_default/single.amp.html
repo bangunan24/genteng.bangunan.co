@@ -860,7 +860,7 @@ caption {
     {{ end }}
   </div>
   <div class="post-content">
-    {{ .Content | safeHTML }}
+    {{ partial "inline-related.html" (dict "page" . "content" .Content) | safeHTML }}
   </div>
   <div class="post-footer">
     <div class="social-share">
