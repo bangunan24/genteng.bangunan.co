@@ -37,7 +37,7 @@ const SITE_HOSTS = require('./site-config.js').getSiteConfig().hosts;
 const EXCLUDED_CATEGORY_FOLDERS = new Set(['home', 'page']);
 
 // Broad marketing/business boilerplate words ignored when scoring topical relatedness.
-// 'bambu' is added for this site: it is in EVERY title, so it carries no signal at all.
+// the product word of each site ('bambu', 'genteng', 'kanopi') is in EVERY title, so it carries no signal at all.
 const RELATED_STOPWORDS = new Set([
   'jual', 'jasa', 'harga', 'sewa', 'beli', 'biaya', 'tukang', 'pasang', 'tempat', 'menyewakan',
   'di', 'ke', 'dari', 'untuk', 'dan', 'yang', 'dengan', 'atau', 'per', 'apa', 'itu', 'ini',
@@ -48,7 +48,7 @@ const RELATED_STOPWORDS = new Set([
   'mengenal', 'kenali', 'memilih', 'adalah', 'dalam', 'pada', 'juga', 'akan', 'bisa', 'dapat',
   'kuat', 'awet', 'tahan', 'lama', 'baik', 'jenis', 'macam', 'model', 'membuat', 'minimalis',
   'terbaru', 'contoh', 'proses', 'sederhana', 'yaitu', 'ialah',
-  'bambu',
+  'bambu', 'genteng', 'kanopi',
 ]);
 
 function significantWords(text) {
