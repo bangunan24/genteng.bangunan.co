@@ -1,7 +1,7 @@
 ---
 title: Jual Genteng Kermaik & Beton di Bantarjati Bogor
 date: '2026-06-01'
-lastmod: "2026-10-20"
+lastmod: "2026-10-28"
 categories:
   - harga
 description: >-
@@ -31,7 +31,7 @@ Genteng aspal terbuat dari serat kayu dan aspal, menawarkan kombinasi estetika d
 
 ### \- Harga Genteng Kermaik & Beton di Bantarjati Bogor
 
-Genteng keramik dan beton adalah pilihan klasik yang sering ditemukan di Bantarjati Bogor.  Dengan berbagai pilihan warna dan desain, genteng ini dapat disesuaikan dengan gaya arsitektur rumah Anda.  Hubungi kami untuk mendapatkan informasi harga genteng keramik dan beton terkini.
+Genteng keramik dan beton adalah pilihan klasik yang sering ditemukan di Bantarjati Bogor.  Dengan berbagai pilihan warna dan desain, genteng ini dapat disesuaikan dengan [gaya arsitektur rumah Anda](/jual-genteng-kermaik-beton-di-babakan-bogor/).  Hubungi kami untuk mendapatkan informasi harga genteng keramik dan beton terkini.
 
 ### \- Harga Genteng Kaca di Toko Genteng Kermaik & Beton di Bantarjati Bogor
 

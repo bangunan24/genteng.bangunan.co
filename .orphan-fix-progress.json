@@ -1,4 +1,16 @@
 {
-  "fixed": [],
-  "failed": {}
+  "fixed": [
+    "/jual-genteng-kermaik-beton-di-angke-jakarta/",
+    "/jual-genteng-kermaik-beton-di-babakan-bogor/",
+    "/jual-genteng-kermaik-beton-di-balumbang-jaya-bogor/",
+    "/jual-genteng-kermaik-beton-di-bambang-lipuro/",
+    "/jual-genteng-kermaik-beton-di-bambu-apus-jakarta/",
+    "/jual-genteng-kermaik-beton-di-banjarnegara/"
+  ],
+  "failed": {
+    "/jual-genteng-kermaik-beton-di-bandung/": 1,
+    "/jual-genteng-kermaik-beton-di-bangka-jakarta/": 1,
+    "/jual-genteng-kermaik-beton-di-bangkalan/": 1,
+    "/jual-genteng-kermaik-beton-di-banjar/": 1
+  }
 }
