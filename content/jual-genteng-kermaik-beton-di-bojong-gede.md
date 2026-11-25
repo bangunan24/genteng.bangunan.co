@@ -1,7 +1,7 @@
 ---
 title: Jual Genteng Kermaik & Beton di Bojong Gede
 date: '2026-07-01'
-lastmod: "2026-10-22"
+lastmod: "2026-11-25"
 categories:
   - harga
 description: >-
@@ -31,7 +31,7 @@ Genteng aspal menawarkan tampilan yang menarik dan tahan lama. Terbuat dari sera
 
 ### - Harga Genteng Kermaik & Beton di Bojong Gede
 
-Genteng keramik dan beton adalah pilihan klasik yang populer di Bojong Gede. Keduanya menawarkan daya tahan tinggi dan estetika yang menarik. Tersedia dalam berbagai warna dan desain, memungkinkan Anda menciptakan tampilan atap yang unik dan sesuai dengan selera Anda.
+Genteng keramik dan beton adalah pilihan klasik yang populer di [Bojong Gede](/jual-genteng-kermaik-beton-di-bojong-purwakarta/). Keduanya menawarkan daya tahan tinggi dan estetika yang menarik. Tersedia dalam berbagai warna dan desain, memungkinkan Anda menciptakan tampilan atap yang unik dan sesuai dengan selera Anda.
 
 ### - Harga Genteng Kaca di Toko Genteng Kermaik & Beton di Bojong Gede
 
